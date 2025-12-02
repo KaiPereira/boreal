@@ -11,6 +11,10 @@ That's why, in the summer of 2024, 50 high school hackers embarked on a journey 
 
 ## Chartering a Train
 
+In 2021, we chartered a train, The Hacker Zephyr, across America, and hosted the world's longest hackathon on land (3,502 miles).
+
+It was one of the coolest hackathons we had ever run, so we wanted to do it again. So in collaboration with VIA Rail, HackClub chartered a train from Vancouver to Toronto and then on to Montreal, for a once in a lifetime oppurtunity!
+
 ## BoreaLAN
 
 ## Challenges
